@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: iamkristian
-Donate link: http://example.com/
 Tags: woocommerce, e-conomic, economic, integration
 Requires at least: 3.3
 Tested up to: 3.55555
