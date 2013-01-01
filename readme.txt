@@ -12,8 +12,10 @@ This plugin will integrate the WooCommerce e-commerce system for Wordpress
 with the financial system E-conomic.
 
 == Description ==
+Free yourself of manual tasks when extending your woocommerce installation
+with the financial system E-conomic.
 
-Feature list:
+= Feature list: =
 
 * Synchronization of products from E-Conomic to WooCommerce.
 * Synchronization of products from WooCommerce to E-Conomic.
