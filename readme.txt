@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: iamkristian
+Donate link: http://kristianrasmussen.com/donate
 Tags: woocommerce, e-conomic, economic, integration
 Requires at least: 3.3
 Tested up to: 3.5
@@ -11,8 +12,9 @@ This plugin will integrate the WooCommerce e-commerce system for Wordpress
 with the financial system E-conomic.
 
 == Description ==
-Free yourself of manual tasks when extending your woocommerce installation
-with the financial system E-conomic.
+Free yourself of manual tasks when extending your
+[WooCommerce](http://www.woothemes.com/woocommerce) installation
+with the financial system [E-conomic](http://www.e-conomic.com).
 
 = Feature list: =
 
