@@ -1,9 +1,10 @@
 === Plugin Name ===
 Contributors: iamkristian
+Donate link: http://kristianrasmussen.com/donate
 Tags: woocommerce, e-conomic, economic, integration
 Requires at least: 3.3
-Tested up to: 3.55555
-Stable tag: 1.0.5
+Tested up to: 3.5
+Stable tag: 1.0.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -11,10 +12,11 @@ This plugin will integrate the WooCommerce e-commerce system for Wordpress
 with the financial system E-conomic.
 
 == Description ==
-Free yourself of manual tasks when extending your woocommerce installation
-with the financial system E-conomic.
+Free yourself of manual tasks when extending your
+[WooCommerce](http://www.woothemes.com/woocommerce) installation
+with the financial system [E-conomic](http://www.e-conomic.com).
 
-= Feature list: =
+Feature list:
 
 * Synchronization of products from E-Conomic to WooCommerce.
 * Synchronization of products from WooCommerce to E-Conomic.
@@ -55,7 +57,8 @@ Navigate to settings -> wooeconomic. Here you configure the plugin. You will nee
 Products can be synchronized two ways. So if you already have lots of products in your WooCommerce shop, you can synchronize them into E-Conomic. And the otherway  way around of course. There are a few things to be aware of though:
 
 * The product group you setup in E-Conomic is used for synchronizing. All products from that group but the shipping product are synchronized.
-* You must add a unique SKU to your products in WooCommerce, this is used as the product number in E-Conomic.
+* You must add a unique SKU to your products in WooCommerce, this is used as the product number in E-Conomic. The SKU can numeric and non numeric. If it is non-numeric, set the product offset to 0.
+* The product description will be striped for tags and shortened to 255 characters when synchronizing to E-Conomic, this does not affect the product description in WooCommerce.
 
 = How it works =
 Using the plugin is simple, it takes care of those tedious repeating tasks.
@@ -77,6 +80,11 @@ Using the plugin is simple, it takes care of those tedious repeating tasks.
 1. The configuration setup of the plugin
 
 == Changelog ==
+
+= 1.0.6 =
+
+* SKU can now also be non numeric, if so you should set product offset to 0.
+* Product description is striped for HTML tags, and shortened to 255 characters when synchronizing to E-Conomic.
 
 = 1.0.5 =
 
