@@ -7,7 +7,6 @@
  * Author: kristianrasmussen.com
  * Author URI: http://kristianrasmussen.com
  * Requires at least: 3.3
- * Tested up to: 3.5
  * License: GPL
  */
 if (!session_id()) session_start();
