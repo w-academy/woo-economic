@@ -3,7 +3,7 @@ Contributors: iamkristian
 Donate link: http://kristianrasmussen.com/donate
 Tags: woocommerce, e-conomic, economic, integration
 Requires at least: 3.3
-Tested up to: 3.5
+Tested up to: 3.5.1
 Stable tag: 1.0.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -37,7 +37,7 @@ site. You will need to install it after WooCommerce.
 This plugin have been tested OK up to:
 
 * WooCommerce 1.6.6
-* Wordpress 3.5
+* Wordpress 3.5.1
 
 = Configuration =
 Navigate to settings -> wooeconomic. Here you configure the plugin. You will need the following:
