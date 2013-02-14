@@ -3,7 +3,7 @@
  * Plugin Name: Woo-economic
  * Plugin URI: http://kristianrasmussen.com/wooeconomic
  * Description: An integration between woocommerce and E-conomic
- * Version: 1.0.5
+ * Version: 1.0.6
  * Author: kristianrasmussen.com
  * Author URI: http://kristianrasmussen.com
  * Requires at least: 3.3
